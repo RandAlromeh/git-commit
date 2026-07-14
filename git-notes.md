@@ -6,7 +6,7 @@ Commands I learned
 
 \- git status
 
-\- git add 
+\- git add
 
 \- git commit -m "message"
 
@@ -27,4 +27,12 @@ Learning points:
 \- how to commit changes into the local repo.
 
 \- how to push changes into remote repo.
+
+
+
+git add vs git commit:
+
+git add moves selected changes from the working directory to the Staging Area.
+
+git commit then saves the staged changes as a permanent snapshot in the local repository.
 
