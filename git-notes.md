@@ -2,6 +2,18 @@
 
 
 
+Commands I learned
+
+\- git status
+
+\- git add 
+
+\- git commit -m "message"
+
+\- git push
+
+
+
 A commit is a snapshot of my project at a specific point in time.
 
 
